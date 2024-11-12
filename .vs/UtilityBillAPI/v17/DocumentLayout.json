@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|d:\\office\\evaluation1\\gayatri_hampe\\utilitybillapi\\utilitybillapi\\utilitybillapi\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|solutionrelative:utilitybillapi\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|d:\\office\\evaluation1\\gayatri_hampe\\utilitybillapi\\utilitybillapi\\utilitybillapi\\services\\eventdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|solutionrelative:utilitybillapi\\services\\eventdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|d:\\office\\evaluation1\\gayatri_hampe\\utilitybillapi\\utilitybillapi\\utilitybillapi\\controllers\\eventdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|solutionrelative:utilitybillapi\\controllers\\eventdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|d:\\office\\evaluation1\\gayatri_hampe\\utilitybillapi\\utilitybillapi\\utilitybillapi\\services interfaces\\ieventdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|solutionrelative:utilitybillapi\\services interfaces\\ieventdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|d:\\office\\evaluation1\\gayatri_hampe\\utilitybillapi\\utilitybillapi\\utilitybillapi\\controllers\\eventreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|solutionrelative:utilitybillapi\\controllers\\eventreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|d:\\office\\evaluation1\\gayatri_hampe\\utilitybillapi\\utilitybillapi\\utilitybillapi\\repositories\\eventdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|solutionrelative:utilitybillapi\\repositories\\eventdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|d:\\office\\evaluation1\\gayatri_hampe\\utilitybillapi\\utilitybillapi\\utilitybillapi\\repository interface\\ieventdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|solutionrelative:utilitybillapi\\repository interface\\ieventdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|d:\\office\\evaluation1\\gayatri_hampe\\utilitybillapi\\utilitybillapi\\utilitybillapi\\models\\eventdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|solutionrelative:utilitybillapi\\models\\eventdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|d:\\office\\evaluation1\\gayatri_hampe\\utilitybillapi\\utilitybillapi\\utilitybillapi\\services interfaces\\ieventregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|solutionrelative:utilitybillapi\\services interfaces\\ieventregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|d:\\office\\evaluation1\\gayatri_hampe\\utilitybillapi\\utilitybillapi\\utilitybillapi\\services\\eventregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|solutionrelative:utilitybillapi\\services\\eventregistrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|d:\\office\\evaluation1\\gayatri_hampe\\utilitybillapi\\utilitybillapi\\utilitybillapi\\repository interface\\ieventregistrationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|solutionrelative:utilitybillapi\\repository interface\\ieventregistrationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|d:\\office\\evaluation1\\gayatri_hampe\\utilitybillapi\\utilitybillapi\\utilitybillapi\\repositories\\eventregistrationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|solutionrelative:utilitybillapi\\repositories\\eventregistrationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|d:\\office\\evaluation1\\gayatri_hampe\\utilitybillapi\\utilitybillapi\\utilitybillapi\\controllers\\eventregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|solutionrelative:utilitybillapi\\controllers\\eventregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|d:\\office\\evaluation1\\gayatri_hampe\\utilitybillapi\\utilitybillapi\\utilitybillapi\\dtos\\eventregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|solutionrelative:utilitybillapi\\dtos\\eventregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|d:\\office\\evaluation1\\gayatri_hampe\\utilitybillapi\\utilitybillapi\\utilitybillapi\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|solutionrelative:utilitybillapi\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|d:\\office\\evaluation1\\gayatri_hampe\\utilitybillapi\\utilitybillapi\\utilitybillapi\\dtos\\eventdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|solutionrelative:utilitybillapi\\dtos\\eventdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|d:\\office\\evaluation1\\gayatri_hampe\\utilitybillapi\\utilitybillapi\\utilitybillapi\\dtos\\artistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|solutionrelative:utilitybillapi\\dtos\\artistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|d:\\office\\evaluation1\\gayatri_hampe\\utilitybillapi\\utilitybillapi\\utilitybillapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|solutionrelative:utilitybillapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|d:\\office\\evaluation1\\gayatri_hampe\\utilitybillapi\\utilitybillapi\\utilitybillapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01B0029D-B8F8-4A3D-8F8E-9B2E9234E292}|UtilityBillAPI\\EventManagementAPI.csproj|solutionrelative:utilitybillapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "UtilityBillAPI\\Data\\SeedData.cs",
+              "ToolTip": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Data\\SeedData.cs",
+              "RelativeToolTip": "UtilityBillAPI\\Data\\SeedData.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:31:52.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventReportController.cs",
+              "DocumentMoniker": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Controllers\\EventReportController.cs",
+              "RelativeDocumentMoniker": "UtilityBillAPI\\Controllers\\EventReportController.cs",
+              "ToolTip": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Controllers\\EventReportController.cs",
+              "RelativeToolTip": "UtilityBillAPI\\Controllers\\EventReportController.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAqwLsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:38:20.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEventDetailService.cs",
+              "DocumentMoniker": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Services Interfaces\\IEventDetailService.cs",
+              "RelativeDocumentMoniker": "UtilityBillAPI\\Services Interfaces\\IEventDetailService.cs",
+              "ToolTip": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Services Interfaces\\IEventDetailService.cs",
+              "RelativeToolTip": "UtilityBillAPI\\Services Interfaces\\IEventDetailService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:23:15.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventDetailService.cs",
+              "DocumentMoniker": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Services\\EventDetailService.cs",
+              "RelativeDocumentMoniker": "UtilityBillAPI\\Services\\EventDetailService.cs",
+              "ToolTip": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Services\\EventDetailService.cs",
+              "RelativeToolTip": "UtilityBillAPI\\Services\\EventDetailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:23:11.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEventDetailRepository.cs",
+              "DocumentMoniker": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Repository Interface\\IEventDetailRepository.cs",
+              "RelativeDocumentMoniker": "UtilityBillAPI\\Repository Interface\\IEventDetailRepository.cs",
+              "ToolTip": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Repository Interface\\IEventDetailRepository.cs",
+              "RelativeToolTip": "UtilityBillAPI\\Repository Interface\\IEventDetailRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswBMAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:23:05.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventDetailRepository.cs",
+              "DocumentMoniker": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Repositories\\EventDetailRepository.cs",
+              "RelativeDocumentMoniker": "UtilityBillAPI\\Repositories\\EventDetailRepository.cs",
+              "ToolTip": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Repositories\\EventDetailRepository.cs",
+              "RelativeToolTip": "UtilityBillAPI\\Repositories\\EventDetailRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwC0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:22:59.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventDetailController.cs",
+              "DocumentMoniker": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Controllers\\EventDetailController.cs",
+              "RelativeDocumentMoniker": "UtilityBillAPI\\Controllers\\EventDetailController.cs",
+              "ToolTip": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Controllers\\EventDetailController.cs",
+              "RelativeToolTip": "UtilityBillAPI\\Controllers\\EventDetailController.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAQwI4AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:22:49.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEventRegistrationRepository.cs",
+              "DocumentMoniker": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Repository Interface\\IEventRegistrationRepository.cs",
+              "RelativeDocumentMoniker": "UtilityBillAPI\\Repository Interface\\IEventRegistrationRepository.cs",
+              "ToolTip": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Repository Interface\\IEventRegistrationRepository.cs",
+              "RelativeToolTip": "UtilityBillAPI\\Repository Interface\\IEventRegistrationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:20:54.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "UtilityBillAPI\\Models\\Artist.cs",
+              "ToolTip": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Models\\Artist.cs",
+              "RelativeToolTip": "UtilityBillAPI\\Models\\Artist.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:56:41.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventRegistrationService.cs",
+              "DocumentMoniker": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Services\\EventRegistrationService.cs",
+              "RelativeDocumentMoniker": "UtilityBillAPI\\Services\\EventRegistrationService.cs",
+              "ToolTip": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Services\\EventRegistrationService.cs",
+              "RelativeToolTip": "UtilityBillAPI\\Services\\EventRegistrationService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAcwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:50:05.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEventRegistrationService.cs",
+              "DocumentMoniker": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Services Interfaces\\IEventRegistrationService.cs",
+              "RelativeDocumentMoniker": "UtilityBillAPI\\Services Interfaces\\IEventRegistrationService.cs",
+              "ToolTip": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Services Interfaces\\IEventRegistrationService.cs",
+              "RelativeToolTip": "UtilityBillAPI\\Services Interfaces\\IEventRegistrationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:48:52.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventRegistrationController.cs",
+              "DocumentMoniker": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Controllers\\EventRegistrationController.cs",
+              "RelativeDocumentMoniker": "UtilityBillAPI\\Controllers\\EventRegistrationController.cs",
+              "ToolTip": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Controllers\\EventRegistrationController.cs",
+              "RelativeToolTip": "UtilityBillAPI\\Controllers\\EventRegistrationController.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAuwL8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:45:54.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventDetail.cs",
+              "DocumentMoniker": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Models\\EventDetail.cs",
+              "RelativeDocumentMoniker": "UtilityBillAPI\\Models\\EventDetail.cs",
+              "ToolTip": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Models\\EventDetail.cs",
+              "RelativeToolTip": "UtilityBillAPI\\Models\\EventDetail.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA3wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:57:21.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "UtilityBillAPI\\Models\\Category.cs",
+              "ToolTip": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Models\\Category.cs",
+              "RelativeToolTip": "UtilityBillAPI\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:56:53.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ArtistDto.cs",
+              "DocumentMoniker": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\DTOs\\ArtistDto.cs",
+              "RelativeDocumentMoniker": "UtilityBillAPI\\DTOs\\ArtistDto.cs",
+              "ToolTip": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\DTOs\\ArtistDto.cs",
+              "RelativeToolTip": "UtilityBillAPI\\DTOs\\ArtistDto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:57:02.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EventRegistrationRepository.cs",
+              "DocumentMoniker": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Repositories\\EventRegistrationRepository.cs",
+              "RelativeDocumentMoniker": "UtilityBillAPI\\Repositories\\EventRegistrationRepository.cs",
+              "ToolTip": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\Repositories\\EventRegistrationRepository.cs",
+              "RelativeToolTip": "UtilityBillAPI\\Repositories\\EventRegistrationRepository.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAA6wFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:09:51.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EventDetailDto.cs",
+              "DocumentMoniker": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\DTOs\\EventDetailDto.cs",
+              "RelativeDocumentMoniker": "UtilityBillAPI\\DTOs\\EventDetailDto.cs",
+              "ToolTip": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\DTOs\\EventDetailDto.cs",
+              "RelativeToolTip": "UtilityBillAPI\\DTOs\\EventDetailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:57:09.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventRegistrationDto.cs",
+              "DocumentMoniker": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\DTOs\\EventRegistrationDto.cs",
+              "RelativeDocumentMoniker": "UtilityBillAPI\\DTOs\\EventRegistrationDto.cs",
+              "ToolTip": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\DTOs\\EventRegistrationDto.cs",
+              "RelativeToolTip": "UtilityBillAPI\\DTOs\\EventRegistrationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:12:30.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "UtilityBillAPI\\appsettings.json",
+              "ToolTip": "D:\\Office\\Evaluation1\\Gayatri_Hampe\\UtilityBillAPI\\UtilityBillAPI\\UtilityBillAPI\\appsettings.json",
+              "RelativeToolTip": "UtilityBillAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T09:44:54.416Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1498,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

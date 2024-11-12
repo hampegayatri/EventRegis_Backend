@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\UtilityBillAPI",
+    "\\UtilityBillAPI\\AutoMapper",
+    "\\UtilityBillAPI\\Controllers",
+    "\\UtilityBillAPI\\Repositories"
+  ],
+  "SelectedNode": "\\UtilityBillAPI.sln",
+  "PreviewInSolutionExplorer": false
+}
